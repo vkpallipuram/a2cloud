@@ -8,7 +8,7 @@ A framework for empowering scientific and high-performance computing via the clo
 
 ## Read The Paper
 
-The A2Cloud paper is currently under review.
+The A2Cloud paper is currently under review in IEEE CLOUD 2018.
 
 ## License
 
