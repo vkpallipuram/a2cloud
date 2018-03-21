@@ -1,10 +1,14 @@
-# A2cloud
+# A2Cloud
 
 A framework for empowering scientific and high-performance computing via the cloud.
 
-## Paper
+## Setup
 
-Under review.
+## How to Use
+
+## Read The Paper
+
+The A2Cloud paper is currently under review.
 
 ## License
 
