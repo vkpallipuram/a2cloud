@@ -1,0 +1,200 @@
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.044E-01  7.120E-04  2.052E-01  3.259E+03  6.136E-04  3.663E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.031E-01  7.100E-04  2.039E-01  3.280E+03  6.097E-04  3.640E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.036E-01  9.220E-04  2.045E-01  3.270E+03  6.117E-04  3.652E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.037E-01  8.210E-04  2.046E-01  3.269E+03  6.118E-04  3.653E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.064E-01  8.190E-04  2.072E-01  3.226E+03  6.199E-04  3.701E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  1.979E-01  7.760E-04  1.987E-01  3.365E+03  5.944E-04  3.549E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.087E-01  7.040E-04  2.095E-01  3.192E+03  6.265E-04  3.740E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.083E-01  8.320E-04  2.091E-01  3.198E+03  6.254E-04  3.734E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.023E-01  7.540E-04  2.031E-01  3.292E+03  6.074E-04  3.627E+00
+  end of tests -- this version dated 10/12/92
+ Please send the results of this run to:
+
+ Jack J. Dongarra
+ Computer Science Department
+ University of Tennessee
+ Knoxville, Tennessee 37996-1300
+
+ Fax: 615-974-8296
+
+ Internet: dongarra@cs.utk.edu
+
+     norm. resid      resid           machep         x(1)          x(n)
+  6.49150133E+00  7.20701276E-13  2.22044605E-16  1.00000000E+00  1.00000000E+00
+
+
+    times are reported for matrices of order  1000
+      factor     solve      total     mflops       unit      ratio
+ times for array with leading dimension of1001
+  2.041E-01  9.340E-04  2.051E-01  3.261E+03  6.134E-04  3.662E+00
+  end of tests -- this version dated 10/12/92
