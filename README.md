@@ -49,7 +49,7 @@ $ ./afm.py report MY_APP_03122018.json
 To use this engine to measure the features of a cloud instance:
 
 ```
-$ cd a2clooud/cloud_trace_engine
+$ cd a2cloud/cloud_trace_engine
 $ make
 $ ./a2cloud-bench.sh # requires superuser
 ```
